@@ -37,6 +37,11 @@
 <h6>Input : 타이타닉 데이터 ( https://www.kaggle.com/c/titanic/overview )</h6>
 <h6>Ouput</h6>
 
+![image](https://user-images.githubusercontent.com/44043468/119543471-ac338380-bdcb-11eb-85e3-c81f3de0fb73.png)
+
 <h2>Lab07</h2>
+<h4> Goal : 딥러닝을 활용한 이미지 분류 문제 해결</h4>
+<h6>Input : MNIST 데이터( https://www.kaggle.com/c/digit-recognizer/data )</h6>
+<h6>Ouput</h6>
 <h2>Lab08</h2>
 <h2>Lab09</h2>

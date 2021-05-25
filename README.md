@@ -19,13 +19,24 @@
 
 <h2>Lab03</h2>
 <h4> Goal : Scikit-learn에서 제공하는 DBSCAN, Agglomerative Clustering 활용하여 그래프 그리기 / K-Means 클러스터링 구현 및 그래프 그리기</h4>
-<h6>Input : https://raw.githubusercontent.com/plotly/datasets/master/school_earnings.csv</h6>
+
 <h6>Ouput</h6>
 
 <h2>Lab04</h2>
 <h2>Lab05</h2>
 <h4> Goal : jupyter notebook을 활용하여 plotly로 그래프 그리기</h4>
+<h6>Input : 학교에 따른 남녀 임금 차이 ( https://raw.githubusercontent.com/plotly/datasets/master/school_earnings.csv  )</h6>
+<h6>Ouput</h6>
+
+![image](https://user-images.githubusercontent.com/44043468/119542817-eea89080-bdca-11eb-8e8f-2bdb9cb1f4bc.png)
+
+![image](https://user-images.githubusercontent.com/44043468/119542871-fec07000-bdca-11eb-8bd1-d6e075a0ce89.png)
+
 <h2>Lab06</h2>
+<h4> Goal : Decision Tree를 활용하여 데이터 예측하기</h4>
+<h6>Input : 타이타닉 데이터 ( https://www.kaggle.com/c/titanic/overview )</h6>
+<h6>Ouput</h6>
+
 <h2>Lab07</h2>
 <h2>Lab08</h2>
 <h2>Lab09</h2>

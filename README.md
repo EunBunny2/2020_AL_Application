@@ -3,6 +3,9 @@
 <b>각 코드에 대한 자세한 설명은 폴더 내 pdf 유형의 보고서를 참고하세요.</b>
 <b>Term Project는 폴더 내 동영상으로 코드 설명을 확인할 수 있습니다.</b>
 
+<h2>Term Project</h2>
+https://youtu.be/0gOZxGvVxxM
+
 <h2>Lab01</h2>
 <h4> Goal : 행정구역별 데이터 취합하여 그래프 그리기 / 취합된 데이터의 총합, 평균, 분산 구하기</h4>
 <h5>Input : 서울시 인구 연령별 통계</h5>
